@@ -9,5 +9,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. Contoh buku lain
    
 --- 
-oke coba edit
+oke coba edit 2025
 *Powered by GitHub Pages* 
